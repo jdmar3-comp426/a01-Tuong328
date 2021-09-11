@@ -15,8 +15,8 @@ h2 {
 
 img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
+    padding: 10px;
     }
 
 ul {
@@ -51,4 +51,9 @@ li a:hover {
 
 .paragraphBody {
     font-family: 'Courier New', Courier, monospace;
+}
+
+#histImg {
+    height: 40%;
+    width: 40%;
 }
